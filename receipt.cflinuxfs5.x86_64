@@ -1,4 +1,4 @@
-Rootfs SHASUM: 5e59c103fa09e23c23bfbc535de59011b4822848a8fec8d75ca3be1bce143e0f
+Rootfs SHASUM: 1e68d797d318d90aa6ce4f6318b76f2102ec6c2597cec86542fd18bb12c5add2
 
 Desired=Unknown/Install/Remove/Purge/Hold
 | Status=Not/Inst/Conf-files/Unpacked/halF-conf/Half-inst/trig-aWait/Trig-pend
@@ -406,9 +406,9 @@ ii  libproxy1v5:amd64                 0.5.4-4build1                         amd6
 ii  libpsl5t64:amd64                  0.21.2-1.1build1                      amd64        Library for Public Suffix List (shared libraries)
 ii  libpthread-stubs0-dev:amd64       0.4-1build3                           amd64        pthread stubs not provided by native libc, development files
 ii  libpython3-stdlib:amd64           3.12.3-0ubuntu2.1                     amd64        interactive high-level object-oriented language (default python3 version)
-ii  libpython3.12-minimal:amd64       3.12.3-1ubuntu0.8                     amd64        Minimal subset of the Python language (version 3.12)
-ii  libpython3.12-stdlib:amd64        3.12.3-1ubuntu0.8                     amd64        Interactive high-level object-oriented language (standard library, version 3.12)
-ii  libpython3.12t64:amd64            3.12.3-1ubuntu0.8                     amd64        Shared Python runtime library (version 3.12)
+ii  libpython3.12-minimal:amd64       3.12.3-1ubuntu0.9                     amd64        Minimal subset of the Python language (version 3.12)
+ii  libpython3.12-stdlib:amd64        3.12.3-1ubuntu0.9                     amd64        Interactive high-level object-oriented language (standard library, version 3.12)
+ii  libpython3.12t64:amd64            3.12.3-1ubuntu0.9                     amd64        Shared Python runtime library (version 3.12)
 ii  libquadmath0:amd64                14.2.0-4ubuntu2~24.04                 amd64        GCC Quad-Precision Math Library
 ii  librav1e0:amd64                   0.7.1-2                               amd64        Fastest and safest AV1 encoder - shared library
 ii  libraw23t64:amd64                 0.21.2-2.1ubuntu0.24.04.1             amd64        raw image decoder library
