@@ -1,4 +1,4 @@
-Rootfs SHASUM: d8f8b9630c97fd8e7ea58dcaa9d7e414a8bdcb49c31d6841d20ae689f04c44a6
+Rootfs SHASUM: 36283b922fa680bcbb7751f1695cc56a1e4c7184799dbdab73b61f52ec841d94
 
 Desired=Unknown/Install/Remove/Purge/Hold
 | Status=Not/Inst/Conf-files/Unpacked/halF-conf/Half-inst/trig-aWait/Trig-pend
@@ -112,7 +112,7 @@ ii  libaio1t64:amd64                  0.3.113-6build1.1                     amd6
 ii  libann0                           1.1.2+doc-9build1                     amd64        Approximate Nearest Neighbor Searching library
 ii  libaom-dev:amd64                  3.8.2-2ubuntu0.1                      amd64        AV1 Video Codec Library -- Development Files
 ii  libaom3:amd64                     3.8.2-2ubuntu0.1                      amd64        AV1 Video Codec Library
-ii  libapparmor1:amd64                4.0.1really4.0.1-0ubuntu0.24.04.4     amd64        changehat AppArmor library
+ii  libapparmor1:amd64                4.0.1really4.0.1-0ubuntu0.24.04.5     amd64        changehat AppArmor library
 ii  libapr1t64:amd64                  1.7.2-3.1ubuntu0.1                    amd64        Apache Portable Runtime Library
 ii  libaprutil1t64:amd64              1.6.3-1.1ubuntu7                      amd64        Apache Portable Runtime Utility Library
 ii  libapt-pkg6.0t64:amd64            2.8.3                                 amd64        package management runtime library
@@ -345,7 +345,7 @@ ii  libmpfr6:amd64                    4.2.1-1build1.1                       amd6
 ii  libncurses-dev:amd64              6.4+20240113-1ubuntu2                 amd64        developer's libraries for ncurses
 ii  libncurses6:amd64                 6.4+20240113-1ubuntu2                 amd64        shared libraries for terminal handling
 ii  libncursesw6:amd64                6.4+20240113-1ubuntu2                 amd64        shared libraries for terminal handling (wide character support)
-ii  libnetplan1:amd64                 1.1.2-2~ubuntu24.04.2                 amd64        Declarative network configuration runtime library
+ii  libnetplan1:amd64                 1.1.2-8ubuntu1~24.04.1                amd64        Declarative network configuration runtime library
 ii  libnettle8t64:amd64               3.9.1-2.2build1.1                     amd64        low level cryptographic library (symmetric and one-way cryptos)
 ii  libnewt0.52:amd64                 0.52.24-2ubuntu2                      amd64        Not Erik's Windowing Toolkit - text mode windowing with slang
 ii  libnghttp2-14:amd64               1.59.0-1ubuntu0.2                     amd64        library implementing HTTP/2 protocol (shared library)
