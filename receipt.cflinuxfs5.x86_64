@@ -1,4 +1,4 @@
-Rootfs SHASUM: 3d4e5727875f2b16dc8f6235bd6b0ecfb5d557d21355b0cbc7c5d045dd378db3
+Rootfs SHASUM: 54e260da437a0951a38cbd042ab0251558780cc80700d859fc2f462ff5bf69d1
 
 Desired=Unknown/Install/Remove/Purge/Hold
 | Status=Not/Inst/Conf-files/Unpacked/halF-conf/Half-inst/trig-aWait/Trig-pend
@@ -39,7 +39,7 @@ ii  cpp-13-x86-64-linux-gnu           13.3.0-6ubuntu2~24.04.1               amd6
 ii  cpp-x86-64-linux-gnu              4:13.2.0-7ubuntu1                     amd64        GNU C preprocessor (cpp) for the amd64 architecture
 ii  cron                              3.0pl1-184ubuntu2                     amd64        process scheduling daemon
 ii  cron-daemon-common                3.0pl1-184ubuntu2                     all          process scheduling daemon's configuration files
-ii  curl                              8.5.0-2ubuntu10.6                     amd64        command line tool for transferring data with URL syntax
+ii  curl                              8.5.0-2ubuntu10.7                     amd64        command line tool for transferring data with URL syntax
 ii  dash                              0.5.12-6ubuntu5                       amd64        POSIX-compliant shell
 ii  debconf                           1.5.86ubuntu1                         all          Debian configuration management system
 ii  debconf-i18n                      1.5.86ubuntu1                         all          full internationalization support for debconf
@@ -165,9 +165,9 @@ ii  libcrypt1:amd64                   1:4.4.36-4build1                      amd6
 ii  libcryptsetup12:amd64             2:2.7.0-1ubuntu4.2                    amd64        disk encryption support - shared library
 ii  libctf-nobfd0:amd64               2.42-4ubuntu2.8                       amd64        Compact C Type Format library (runtime, no BFD dependency)
 ii  libctf0:amd64                     2.42-4ubuntu2.8                       amd64        Compact C Type Format library (runtime, BFD dependency)
-ii  libcurl3t64-gnutls:amd64          8.5.0-2ubuntu10.6                     amd64        easy-to-use client-side URL transfer library (GnuTLS flavour)
-ii  libcurl4-openssl-dev:amd64        8.5.0-2ubuntu10.6                     amd64        development files and documentation for libcurl (OpenSSL flavour)
-ii  libcurl4t64:amd64                 8.5.0-2ubuntu10.6                     amd64        easy-to-use client-side URL transfer library (OpenSSL flavour)
+ii  libcurl3t64-gnutls:amd64          8.5.0-2ubuntu10.7                     amd64        easy-to-use client-side URL transfer library (GnuTLS flavour)
+ii  libcurl4-openssl-dev:amd64        8.5.0-2ubuntu10.7                     amd64        development files and documentation for libcurl (OpenSSL flavour)
+ii  libcurl4t64:amd64                 8.5.0-2ubuntu10.7                     amd64        easy-to-use client-side URL transfer library (OpenSSL flavour)
 ii  libcwidget4:amd64                 0.5.18-6build1                        amd64        high-level terminal interface library for C++ (runtime files)
 ii  libdatrie1:amd64                  0.2.13-3build1                        amd64        Double-array trie library
 ii  libdav1d-dev:amd64                1.4.1-1build1                         amd64        fast and small AV1 video stream decoder (development files)
@@ -182,9 +182,9 @@ ii  libdebuginfod1t64:amd64           0.190-1.1ubuntu0.1                    amd6
 ii  libdeflate-dev:amd64              1.19-1build1.1                        amd64        headers for whole-buffer compression and decompression library
 ii  libdeflate0:amd64                 1.19-1build1.1                        amd64        fast, whole-buffer DEFLATE-based compression and decompression
 ii  libdevmapper1.02.1:amd64          2:1.02.185-3ubuntu3.2                 amd64        Linux Kernel Device Mapper userspace library
-ii  libdjvulibre-dev:amd64            3.5.28-2ubuntu0.24.04.1               amd64        Development files for the DjVu image format
-ii  libdjvulibre-text                 3.5.28-2ubuntu0.24.04.1               all          Linguistic support files for libdjvulibre
-ii  libdjvulibre21:amd64              3.5.28-2ubuntu0.24.04.1               amd64        Runtime support for the DjVu image format
+ii  libdjvulibre-dev:amd64            3.5.28-2ubuntu0.24.04.2               amd64        Development files for the DjVu image format
+ii  libdjvulibre-text                 3.5.28-2ubuntu0.24.04.2               all          Linguistic support files for libdjvulibre
+ii  libdjvulibre21:amd64              3.5.28-2ubuntu0.24.04.2               amd64        Runtime support for the DjVu image format
 ii  libdpkg-perl                      1.22.6ubuntu6.5                       all          Dpkg perl modules
 ii  libdrm-common                     2.4.125-1ubuntu0.1~24.04.1            all          Userspace interface to kernel DRM services -- common files
 ii  libdrm-intel1:amd64               2.4.125-1ubuntu0.1~24.04.1            amd64        Userspace interface to intel-specific kernel DRM services -- runtime
@@ -399,16 +399,16 @@ ii  libpkgconf3:amd64                 1.8.1-2build1                         amd6
 ii  libpng-dev:amd64                  1.6.43-5ubuntu0.5                     amd64        PNG library - development (version 1.6)
 ii  libpng16-16t64:amd64              1.6.43-5ubuntu0.5                     amd64        PNG library - runtime (version 1.6)
 ii  libpopt0:amd64                    1.19+dfsg-1build1                     amd64        lib for parsing cmdline parameters
-ii  libpq-dev                         16.11-0ubuntu0.24.04.1                amd64        header files for libpq5 (PostgreSQL library)
-ii  libpq5:amd64                      16.11-0ubuntu0.24.04.1                amd64        PostgreSQL C client library
+ii  libpq-dev                         16.13-0ubuntu0.24.04.1                amd64        header files for libpq5 (PostgreSQL library)
+ii  libpq5:amd64                      16.13-0ubuntu0.24.04.1                amd64        PostgreSQL C client library
 ii  libproc2-0:amd64                  2:4.0.4-4ubuntu3.2                    amd64        library for accessing process information from /proc
 ii  libproxy1v5:amd64                 0.5.4-4build1                         amd64        automatic proxy configuration management library (shared)
 ii  libpsl5t64:amd64                  0.21.2-1.1build1                      amd64        Library for Public Suffix List (shared libraries)
 ii  libpthread-stubs0-dev:amd64       0.4-1build3                           amd64        pthread stubs not provided by native libc, development files
 ii  libpython3-stdlib:amd64           3.12.3-0ubuntu2.1                     amd64        interactive high-level object-oriented language (default python3 version)
-ii  libpython3.12-minimal:amd64       3.12.3-1ubuntu0.11                    amd64        Minimal subset of the Python language (version 3.12)
-ii  libpython3.12-stdlib:amd64        3.12.3-1ubuntu0.11                    amd64        Interactive high-level object-oriented language (standard library, version 3.12)
-ii  libpython3.12t64:amd64            3.12.3-1ubuntu0.11                    amd64        Shared Python runtime library (version 3.12)
+ii  libpython3.12-minimal:amd64       3.12.3-1ubuntu0.12                    amd64        Minimal subset of the Python language (version 3.12)
+ii  libpython3.12-stdlib:amd64        3.12.3-1ubuntu0.12                    amd64        Interactive high-level object-oriented language (standard library, version 3.12)
+ii  libpython3.12t64:amd64            3.12.3-1ubuntu0.12                    amd64        Shared Python runtime library (version 3.12)
 ii  libquadmath0:amd64                14.2.0-4ubuntu2~24.04.1               amd64        GCC Quad-Precision Math Library
 ii  librav1e0:amd64                   0.7.1-2                               amd64        Fastest and safest AV1 encoder - shared library
 ii  libraw23t64:amd64                 0.21.2-2.1ubuntu0.24.04.1             amd64        raw image decoder library
