@@ -1,4 +1,4 @@
-Rootfs SHASUM: edde0b7ff15cb7fd03de0c05ab92a189b1de5fbd22403d5e6965d3000aff7e9d
+Rootfs SHASUM: 25502b375447300e7b6e1177f6e1c6067d756ff38282a9996f4db3202d01de87
 
 Desired=Unknown/Install/Remove/Purge/Hold
 | Status=Not/Inst/Conf-files/Unpacked/halF-conf/Half-inst/trig-aWait/Trig-pend
@@ -103,7 +103,7 @@ ii  isc-dhcp-client                   4.4.3-P1-4ubuntu2                     amd6
 ii  jq                                1.7.1-3ubuntu0.24.04.2                amd64        lightweight and flexible command-line JSON processor
 ii  kbd                               2.6.4-2ubuntu2                        amd64        Linux console font and keytable utilities
 ii  keyboard-configuration            1.226ubuntu1                          all          system-wide keyboard preferences
-ii  kmod                              31+20240202-2ubuntu7.1                amd64        tools for managing Linux kernel modules
+ii  kmod                              31+20240202-2ubuntu7.2                amd64        tools for managing Linux kernel modules
 ii  krb5-multidev:amd64               1.20.1-6ubuntu2.6                     amd64        development files for MIT Kerberos without Heimdal conflict
 ii  krb5-user                         1.20.1-6ubuntu2.6                     amd64        basic programs to authenticate using MIT Kerberos
 ii  less                              590-2ubuntu2.1                        amd64        pager program similar to more
@@ -294,7 +294,7 @@ ii  libkadm5clnt-mit12:amd64          1.20.1-6ubuntu2.6                     amd6
 ii  libkadm5srv-mit12:amd64           1.20.1-6ubuntu2.6                     amd64        MIT Kerberos runtime libraries - KDC and Admin Server
 ii  libkdb5-10t64:amd64               1.20.1-6ubuntu2.6                     amd64        MIT Kerberos runtime libraries - Kerberos database
 ii  libkeyutils1:amd64                1.6.3-3build1                         amd64        Linux Key Management Utilities (library)
-ii  libkmod2:amd64                    31+20240202-2ubuntu7.1                amd64        libkmod shared library
+ii  libkmod2:amd64                    31+20240202-2ubuntu7.2                amd64        libkmod shared library
 ii  libkrb5-26t64-heimdal:amd64       7.8.git20221117.28daf24+dfsg-5ubuntu3 amd64        Heimdal Kerberos - libraries
 ii  libkrb5-3:amd64                   1.20.1-6ubuntu2.6                     amd64        MIT Kerberos runtime libraries
 ii  libkrb5-dev:amd64                 1.20.1-6ubuntu2.6                     amd64        headers and development libraries for MIT Kerberos
@@ -553,7 +553,7 @@ ii  libzstd-dev:amd64                 1.5.5+dfsg2-2build1.1                 amd6
 ii  libzstd1:amd64                    1.5.5+dfsg2-2build1.1                 amd64        fast lossless compression algorithm
 ii  libzvbi-common                    0.2.42-2                              all          Vertical Blanking Interval decoder (VBI) - common files
 ii  libzvbi0t64:amd64                 0.2.42-2                              amd64        Vertical Blanking Interval decoder (VBI) - runtime files
-ii  linux-libc-dev:amd64              6.8.0-110.110                         amd64        Linux Kernel Headers for development
+ii  linux-libc-dev:amd64              6.8.0-111.111                         amd64        Linux Kernel Headers for development
 ii  locales                           2.39-0ubuntu8.7                       all          GNU C Library: National Language (locale) data [support]
 ii  lockfile-progs                    0.1.19build2                          amd64        Programs for locking and unlocking files and mailboxes
 ii  login                             1:4.13+dfsg1-4ubuntu3.2               amd64        system login tools
