@@ -1,4 +1,4 @@
-Rootfs SHASUM: 5245e4cecfa5cb39385a07b220ee0275560820df155bfeaf4a2da9abfe8d0c92
+Rootfs SHASUM: a87a1db1e2bbf18df9e6adf964425af66e5f6a05a917aa88aa83ee7f26c015c7
 
 Desired=Unknown/Install/Remove/Purge/Hold
 | Status=Not/Inst/Conf-files/Unpacked/halF-conf/Half-inst/trig-aWait/Trig-pend
@@ -265,9 +265,9 @@ ii  libibverbs1:amd64                 50.0-2ubuntu0.2                       amd6
 ii  libice6:amd64                     2:1.0.10-1build3                      amd64        X11 Inter-Client Exchange library
 ii  libicu-dev:amd64                  74.2-1ubuntu3.1                       amd64        Development files for International Components for Unicode
 ii  libicu74:amd64                    74.2-1ubuntu3.1                       amd64        International Components for Unicode
-ii  libidn-dev:amd64                  1.42-1build1                          amd64        Development files for GNU Libidn, an IDN library
-ii  libidn11-dev:amd64                1.42-1build1                          amd64        Transitional development package for GNU Libidn
-ii  libidn12:amd64                    1.42-1build1                          amd64        GNU Libidn library, implementation of IETF IDN specifications
+ii  libidn-dev:amd64                  1.42-1ubuntu0.1                       amd64        Development files for GNU Libidn, an IDN library
+ii  libidn11-dev:amd64                1.42-1ubuntu0.1                       amd64        Transitional development package for GNU Libidn
+ii  libidn12:amd64                    1.42-1ubuntu0.1                       amd64        GNU Libidn library, implementation of IETF IDN specifications
 ii  libidn2-0:amd64                   2.3.7-2build1.1                       amd64        Internationalized domain names (IDNA2008/TR46) library
 ii  libidn2-dev:amd64                 2.3.7-2build1.1                       amd64        Internationalized domain names (IDNA2008/TR46) development files
 ii  libimath-3-1-29t64:amd64          3.1.9-3.1ubuntu2                      amd64        Utility libraries from ASF used by OpenEXR - runtime
@@ -410,7 +410,7 @@ ii  libpython3.12-stdlib:amd64        3.12.3-1ubuntu0.15                    amd6
 ii  libpython3.12t64:amd64            3.12.3-1ubuntu0.15                    amd64        Shared Python runtime library (version 3.12)
 ii  libquadmath0:amd64                14.2.0-4ubuntu2~24.04.1               amd64        GCC Quad-Precision Math Library
 ii  librav1e0:amd64                   0.7.1-2                               amd64        Fastest and safest AV1 encoder - shared library
-ii  libraw23t64:amd64                 0.21.2-2.1ubuntu0.24.04.1             amd64        raw image decoder library
+ii  libraw23t64:amd64                 0.21.2-2.1ubuntu0.24.04.2             amd64        raw image decoder library
 ii  libreadline-dev:amd64             8.2-4build1                           amd64        GNU readline and history libraries, development files
 ii  libreadline8t64:amd64             8.2-4build1                           amd64        GNU readline and history libraries, run-time libraries
 ii  librhash0:amd64                   1.4.3-3build1                         amd64        shared library for hash functions computing
@@ -614,7 +614,7 @@ ii  tasksel                           3.75ubuntu1                           all 
 ii  tasksel-data                      3.75ubuntu1                           all          official tasks used for installation of Debian systems
 ii  tcpdump                           4.99.4-3ubuntu4.24.04.1               amd64        command-line network traffic analyzer
 ii  traceroute                        1:2.1.5-1                             amd64        Traces the route taken by packets over an IPv4/IPv6 network
-ii  tzdata                            2026a-0ubuntu0.24.04.1                all          time zone and daylight-saving time data
+ii  tzdata                            2026b-0ubuntu0.24.04.1                all          time zone and daylight-saving time data
 ii  ubuntu-keyring                    2023.11.28.1                          all          GnuPG keys of the Ubuntu archive
 ii  ucf                               3.0043+nmu1                           all          Update Configuration File(s): preserve user changes to config files
 ii  udev                              255.4-1ubuntu8.16                     amd64        /dev/ and hotplug management daemon
