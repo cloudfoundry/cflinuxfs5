@@ -1,4 +1,4 @@
-Rootfs SHASUM: 9f7812f28415adba0bd115b1ecd547cb158bef0f3d0ef7e984b10c32fac3d1d0
+Rootfs SHASUM: b4462cee3c5ae6519359ce45a75d0c1c1415e72aee41915145f6a495df324c09
 
 Desired=Unknown/Install/Remove/Purge/Hold
 | Status=Not/Inst/Conf-files/Unpacked/halF-conf/Half-inst/trig-aWait/Trig-pend
@@ -609,7 +609,7 @@ ii  systemd                           255.4-1ubuntu8.16                     amd6
 ii  systemd-dev                       255.4-1ubuntu8.16                     all          systemd development files
 ii  systemd-sysv                      255.4-1ubuntu8.16                     amd64        system and service manager - SysV compatibility symlinks
 ii  sysvinit-utils                    3.08-6ubuntu3                         amd64        System-V-like utilities
-ii  tar                               1.35+dfsg-3ubuntu0.3                  amd64        GNU version of the tar archiving utility
+ii  tar                               1.35+dfsg-3ubuntu0.4                  amd64        GNU version of the tar archiving utility
 ii  tasksel                           3.75ubuntu1                           all          tool for selecting tasks for installation on Debian systems
 ii  tasksel-data                      3.75ubuntu1                           all          official tasks used for installation of Debian systems
 ii  tcpdump                           4.99.4-3ubuntu4.24.04.1               amd64        command-line network traffic analyzer
