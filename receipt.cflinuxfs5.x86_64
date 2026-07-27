@@ -1,4 +1,4 @@
-Rootfs SHASUM: fc0ec3f3837bfd75f680b66894f195cef1be97ac2d93f638f426d47c02db831f
+Rootfs SHASUM: fe3c3aba4a7216f9bdab8afa4aa83dd2cf79e5583ac4381e631936ed9dc8d135
 
 Desired=Unknown/Install/Remove/Purge/Hold
 | Status=Not/Inst/Conf-files/Unpacked/halF-conf/Half-inst/trig-aWait/Trig-pend
@@ -145,10 +145,10 @@ ii  libbrotli1:amd64                  1.1.0-2build2                         amd6
 ii  libbsd0:amd64                     0.12.1-1build1.1                      amd64        utility functions from BSD systems - shared library
 ii  libbz2-1.0:amd64                  1.0.8-5.1build0.1                     amd64        high-quality block-sorting file compressor library - runtime
 ii  libbz2-dev:amd64                  1.0.8-5.1build0.1                     amd64        high-quality block-sorting file compressor library - development
-ii  libc-bin                          2.39-0ubuntu8.7                       amd64        GNU C Library: Binaries
-ii  libc-dev-bin                      2.39-0ubuntu8.7                       amd64        GNU C Library: Development binaries
-ii  libc6:amd64                       2.39-0ubuntu8.7                       amd64        GNU C Library: Shared libraries
-ii  libc6-dev:amd64                   2.39-0ubuntu8.7                       amd64        GNU C Library: Development Libraries and Header Files
+ii  libc-bin                          2.39-0ubuntu8.8                       amd64        GNU C Library: Binaries
+ii  libc-dev-bin                      2.39-0ubuntu8.8                       amd64        GNU C Library: Development binaries
+ii  libc6:amd64                       2.39-0ubuntu8.8                       amd64        GNU C Library: Shared libraries
+ii  libc6-dev:amd64                   2.39-0ubuntu8.8                       amd64        GNU C Library: Development Libraries and Header Files
 ii  libcairo-gobject2:amd64           1.18.0-3build1                        amd64        Cairo 2D vector graphics library (GObject library)
 ii  libcairo2:amd64                   1.18.0-3build1                        amd64        Cairo 2D vector graphics library
 ii  libcap-ng0:amd64                  0.8.4-2build2                         amd64        alternate POSIX capabilities library
@@ -553,7 +553,7 @@ ii  libzstd1:amd64                    1.5.5+dfsg2-2build1.1                 amd6
 ii  libzvbi-common                    0.2.42-2                              all          Vertical Blanking Interval decoder (VBI) - common files
 ii  libzvbi0t64:amd64                 0.2.42-2                              amd64        Vertical Blanking Interval decoder (VBI) - runtime files
 ii  linux-libc-dev:amd64              6.8.0-136.136                         amd64        Linux Kernel Headers for development
-ii  locales                           2.39-0ubuntu8.7                       all          GNU C Library: National Language (locale) data [support]
+ii  locales                           2.39-0ubuntu8.8                       all          GNU C Library: National Language (locale) data [support]
 ii  lockfile-progs                    0.1.19build2                          amd64        Programs for locking and unlocking files and mailboxes
 ii  login                             1:4.13+dfsg1-4ubuntu3.2               amd64        system login tools
 ii  logrotate                         3.21.0-2build1                        amd64        Log rotation utility
