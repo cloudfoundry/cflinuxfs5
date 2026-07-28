@@ -1,4 +1,4 @@
-Rootfs SHASUM: fe3c3aba4a7216f9bdab8afa4aa83dd2cf79e5583ac4381e631936ed9dc8d135
+Rootfs SHASUM: 8ffab6d44d399c30732fc1a7cf9b0dc178790e4ebcfeb7f74c904e0ca2822093
 
 Desired=Unknown/Install/Remove/Purge/Hold
 | Status=Not/Inst/Conf-files/Unpacked/halF-conf/Half-inst/trig-aWait/Trig-pend
@@ -497,7 +497,7 @@ ii  libvpl2                           2023.3.0-1build1                      amd6
 ii  libvpx-dev:amd64                  1.14.0-1ubuntu2.3                     amd64        VP8 and VP9 video codec (development files)
 ii  libvpx9:amd64                     1.14.0-1ubuntu2.3                     amd64        VP8 and VP9 video codec (shared library)
 ii  libwayland-client0:amd64          1.22.0-2.1build1                      amd64        wayland compositor infrastructure - client library
-ii  libwbclient0:amd64                2:4.19.5+dfsg-4ubuntu9.6              amd64        Samba winbind client library
+ii  libwbclient0:amd64                2:4.19.5+dfsg-4ubuntu9.7              amd64        Samba winbind client library
 ii  libwebp-dev:amd64                 1.3.2-0.4build3                       amd64        Lossy compression of digital photographic images
 ii  libwebp7:amd64                    1.3.2-0.4build3                       amd64        Lossy compression of digital photographic images
 ii  libwebpdecoder3:amd64             1.3.2-0.4build3                       amd64        Library for the WebP graphics format (decode only)
