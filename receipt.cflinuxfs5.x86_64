@@ -1,4 +1,4 @@
-Rootfs SHASUM: 03139e646c78db8068f25cb41068bd769e5e13a1bbe295694cd7f9f53f06763b
+Rootfs SHASUM: 0e82c2f194fde5ab0063689c9efd90c08b6f0bf1f8136c7afb53c94e62fa411e
 
 Desired=Unknown/Install/Remove/Purge/Hold
 | Status=Not/Inst/Conf-files/Unpacked/halF-conf/Half-inst/trig-aWait/Trig-pend
@@ -16,9 +16,9 @@ ii  autotools-dev                     20220109.1                            all 
 ii  base-files                        13ubuntu10.5                          amd64        Debian base system miscellaneous files
 ii  base-passwd                       3.6.3build1                           amd64        Debian base system master password and group files
 ii  bash                              5.2.21-2ubuntu4                       amd64        GNU Bourne Again SHell
-ii  bind9-dnsutils                    1:9.18.39-0ubuntu0.24.04.8            amd64        Clients provided with BIND 9
-ii  bind9-host                        1:9.18.39-0ubuntu0.24.04.8            amd64        DNS Lookup Utility
-ii  bind9-libs:amd64                  1:9.18.39-0ubuntu0.24.04.8            amd64        Shared Libraries used by BIND 9
+ii  bind9-dnsutils                    1:9.18.39-0ubuntu0.24.04.9            amd64        Clients provided with BIND 9
+ii  bind9-host                        1:9.18.39-0ubuntu0.24.04.9            amd64        DNS Lookup Utility
+ii  bind9-libs:amd64                  1:9.18.39-0ubuntu0.24.04.9            amd64        Shared Libraries used by BIND 9
 ii  binutils                          2.42-4ubuntu2.10                      amd64        GNU assembler, linker and binary utilities
 ii  binutils-common:amd64             2.42-4ubuntu2.10                      amd64        Common files for the GNU assembler, linker and binary utilities
 ii  binutils-x86-64-linux-gnu         2.42-4ubuntu2.10                      amd64        GNU binary utilities, for x86-64-linux-gnu target
@@ -47,7 +47,7 @@ ii  debianutils                       5.17build1                            amd6
 ii  diffutils                         1:3.10-1ubuntu0.1                     amd64        File comparison utilities
 ii  distro-info                       1.7build1                             amd64        provides information about the distributions' releases
 ii  distro-info-data                  2026.10.12-0ubuntu0.24.04.1           all          information about the distributions' releases (data files)
-ii  dnsutils                          1:9.18.39-0ubuntu0.24.04.8            all          Transitional package for bind9-dnsutils
+ii  dnsutils                          1:9.18.39-0ubuntu0.24.04.9            all          Transitional package for bind9-dnsutils
 ii  dpkg                              1.22.6ubuntu6.6                       amd64        Debian package management system
 ii  dpkg-dev                          1.22.6ubuntu6.6                       all          Debian package development tools
 ii  e2fsprogs                         1.47.0-2.4~exp1ubuntu4.1              amd64        ext2/ext3/ext4 file system utilities
@@ -382,11 +382,11 @@ ii  libpathplan4:amd64                2.42.2-9ubuntu0.1                     amd6
 ii  libpcap0.8t64:amd64               1.10.4-4.1ubuntu3.1                   amd64        system interface for user-level packet capture
 ii  libpciaccess0:amd64               0.17-3ubuntu0.24.04.3                 amd64        Generic PCI access library for X
 ii  libpcre16-3:amd64                 2:8.39-15build1                       amd64        Old Perl 5 Compatible Regular Expression Library - 16 bit runtime files
-ii  libpcre2-16-0:amd64               10.42-4ubuntu2.1                      amd64        New Perl Compatible Regular Expression Library - 16 bit runtime files
-ii  libpcre2-32-0:amd64               10.42-4ubuntu2.1                      amd64        New Perl Compatible Regular Expression Library - 32 bit runtime files
-ii  libpcre2-8-0:amd64                10.42-4ubuntu2.1                      amd64        New Perl Compatible Regular Expression Library- 8 bit runtime files
-ii  libpcre2-dev:amd64                10.42-4ubuntu2.1                      amd64        New Perl Compatible Regular Expression Library - development files
-ii  libpcre2-posix3:amd64             10.42-4ubuntu2.1                      amd64        New Perl Compatible Regular Expression Library - posix-compatible runtime files
+ii  libpcre2-16-0:amd64               10.42-4ubuntu2.2                      amd64        New Perl Compatible Regular Expression Library - 16 bit runtime files
+ii  libpcre2-32-0:amd64               10.42-4ubuntu2.2                      amd64        New Perl Compatible Regular Expression Library - 32 bit runtime files
+ii  libpcre2-8-0:amd64                10.42-4ubuntu2.2                      amd64        New Perl Compatible Regular Expression Library- 8 bit runtime files
+ii  libpcre2-dev:amd64                10.42-4ubuntu2.2                      amd64        New Perl Compatible Regular Expression Library - development files
+ii  libpcre2-posix3:amd64             10.42-4ubuntu2.2                      amd64        New Perl Compatible Regular Expression Library - posix-compatible runtime files
 ii  libpcre3:amd64                    2:8.39-15build1                       amd64        Old Perl 5 Compatible Regular Expression Library - runtime files
 ii  libpcre3-dev:amd64                2:8.39-15build1                       amd64        Old Perl 5 Compatible Regular Expression Library - development files
 ii  libpcre32-3:amd64                 2:8.39-15build1                       amd64        Old Perl 5 Compatible Regular Expression Library - 32 bit runtime files
