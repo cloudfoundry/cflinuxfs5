@@ -1,4 +1,4 @@
-Rootfs SHASUM: 0e82c2f194fde5ab0063689c9efd90c08b6f0bf1f8136c7afb53c94e62fa411e
+Rootfs SHASUM: 1bdd45ff4ea947321a28636415ddc2cd1e3e522a201256096406076abf5029bf
 
 Desired=Unknown/Install/Remove/Purge/Hold
 | Status=Not/Inst/Conf-files/Unpacked/halF-conf/Half-inst/trig-aWait/Trig-pend
@@ -6,8 +6,8 @@ Desired=Unknown/Install/Remove/Purge/Hold
 ||/ Name                              Version                               Architecture Description
 +++-=================================-=====================================-============-================================================================================
 ii  adduser                           3.137ubuntu1                          all          add and remove users and groups
-ii  apt                               2.8.3                                 amd64        commandline package manager
-ii  apt-utils                         2.8.3                                 amd64        package management related utility programs
+ii  apt                               2.8.4ubuntu0.1                        amd64        commandline package manager
+ii  apt-utils                         2.8.4ubuntu0.1                        amd64        package management related utility programs
 ii  aptitude                          0.8.13-5ubuntu5                       amd64        terminal-based package manager
 ii  aptitude-common                   0.8.13-5ubuntu5                       all          architecture independent files for the aptitude package manager
 ii  autoconf                          2.71-3                                all          automatic configure script builder
@@ -115,7 +115,7 @@ ii  libaom3:amd64                     3.8.2-2ubuntu0.2                      amd6
 ii  libapparmor1:amd64                4.0.1really4.0.1-0ubuntu0.24.04.9     amd64        changehat AppArmor library
 ii  libapr1t64:amd64                  1.7.2-3.1ubuntu0.1                    amd64        Apache Portable Runtime Library
 ii  libaprutil1t64:amd64              1.6.3-1.1ubuntu7.1                    amd64        Apache Portable Runtime Utility Library
-ii  libapt-pkg6.0t64:amd64            2.8.3                                 amd64        package management runtime library
+ii  libapt-pkg6.0t64:amd64            2.8.4ubuntu0.1                        amd64        package management runtime library
 ii  libarchive-extract-perl           0.88-1                                all          generic archive extracting module
 ii  libarchive13t64:amd64             3.7.2-2ubuntu0.9                      amd64        Multi-format archive and compression library (shared library)
 ii  libargon2-1:amd64                 0~20190702+dfsg-4build1               amd64        memory-hard hashing function - runtime library
@@ -446,8 +446,8 @@ ii  libsource-highlight-common        3.1.9-4.3build1                       all 
 ii  libsource-highlight4t64:amd64     3.1.9-4.3build1                       amd64        source highlighting library
 ii  libsoxr0:amd64                    0.1.3-4build3                         amd64        High quality 1D sample-rate conversion library
 ii  libspeex1:amd64                   1.2.1-2ubuntu2.24.04.1                amd64        The Speex codec runtime library
-ii  libsqlite3-0:amd64                3.45.1-1ubuntu2.8                     amd64        SQLite 3 shared library
-ii  libsqlite3-dev:amd64              3.45.1-1ubuntu2.8                     amd64        SQLite 3 development files
+ii  libsqlite3-0:amd64                3.45.1-1ubuntu2.9                     amd64        SQLite 3 shared library
+ii  libsqlite3-dev:amd64              3.45.1-1ubuntu2.9                     amd64        SQLite 3 development files
 ii  libss2:amd64                      1.47.0-2.4~exp1ubuntu4.1              amd64        command-line interface parsing library
 ii  libssh-4:amd64                    0.10.6-2ubuntu0.5                     amd64        tiny C SSH library (OpenSSL flavor)
 ii  libssl-dev:amd64                  3.0.13-0ubuntu3.16                    amd64        Secure Sockets Layer toolkit - development files
